@@ -95,7 +95,3 @@ llm_cache.json
 
 # Output files
 output/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
